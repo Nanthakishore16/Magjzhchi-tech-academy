@@ -1,0 +1,88 @@
+class Java 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Welcome to Java Programming");
+    }
+}
+
+class Food 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("i love biriyani");
+    }
+}
+
+class Dream 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Java Sundaresan");
+    }
+}
+
+class Music 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Life is better with music");
+    }
+}
+
+class Canteen 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Samosa and chai ready");
+    }
+}
+
+class ExamHall 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("No talking, only writing");
+    }
+}
+
+
+class Cricket 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Dhoni finishes off in style");
+    }
+}
+
+class CoffeeShop 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("One strong filter coffee");
+    }
+}
+
+class BankATM 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Balance: ₹10");
+    }
+}
+
+class OnlineClass 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Mic off, video off, sleeping ON!");
+    }
+}
+
+class IplFinals 
+{
+    public static void main(String[] args) 
+	{
+        System.out.println("Ee sala cup namdhe");
+    }
+}
